@@ -1,5 +1,6 @@
 # Interactive-Web-Authoring-Improvement
-This is updated version of my Interactive-Web-Authoring Assignment using React and Tailwindcss
+This is updated version of my Interactive-Web-Authoring Assignment using React and Tailwindcss.
+
 This is the comparison between New and Old Website.
 
 New Image Map 
